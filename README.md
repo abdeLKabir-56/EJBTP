@@ -1,2 +1,2 @@
-#TP EJB
-TP (EJB ,JPA)
+#EJB
+#TP (EJB ,JPA)
